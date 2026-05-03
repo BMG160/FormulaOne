@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903455748110",
+    "project_id": "import-testing-510ea",
+    "storage_bucket": "import-testing-510ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903455748110:android:fd42562cf464885dcf0c5f",
+        "android_client_info": {
+          "package_name": "com.example.xgboostranker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD86QnKae_szmAXmytNgghTaJLrFUqGG4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
